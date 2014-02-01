@@ -1,0 +1,107 @@
+// ## Main
+
+*
+  box-sizing: border-box
+
+::selection
+  background-color: base-brand-color
+  color: base-background-color
+
+html
+  font: 400 0.875em/1.5 "Montserrat", Helvetica, "Segoe UI", Arial, sans-serif
+  background-color: base-background-color
+  color: base-font-color
+  @media screen and (min-width: 640px)
+    font-size: 1em
+  @media screen and (min-width: 960px)
+    font-size: 1.125em
+
+// ## Links
+
+a
+  color: inherit
+  &:hover,
+  &:focus,
+  &:active
+    color: base-brand-color
+  &:active
+    position: relative
+    top: 1px
+
+// ## Code
+
+code
+  padding: 0.125rem 0.25rem
+  font-family: Menlo, Monaco, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace
+  font-size: 0.75rem
+
+code,
+pre
+  background-color: #f8f8f8
+  border: 1px solid #ddd
+  border-radius: 0.25rem
+
+pre
+  padding: 0.5rem
+  word-wrap: normal
+  white-space: pre
+  line-height: 1.25
+  > code
+    padding: 0
+    border: 0
+
+// ## Quotes
+
+.pullquote
+  margin-left: 0
+  margin-right: 0
+  padding-left: 0.6rem
+  text-indent: -0.6rem
+  p
+    &:before
+      content: "\201C"
+    &:after
+      content: "\201D"
+    &:before,
+    &:after
+      font-size: 1.5rem
+      line-height: 0
+
+// ## Objects
+
+.wrapper
+  margin: 0 auto
+  max-width: 36rem
+
+.island
+  padding: 2rem
+
+.landmark
+  padding: 3rem
+
+.banner
+  background-color: base-font-color
+  color: base-background-color
+
+// ## Helpers
+
+.shh
+  text-decoration: none
+
+.cramp
+  margin-top: 0
+  margin-bottom: 0
+
+.cramp-above
+  margin-top: 0
+
+.space-above
+  margin-top: 0.5rem
+
+.hook
+  font-weight: bold
+
+// ## Layout
+
+.logo
+  font-size: 3rem

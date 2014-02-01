@@ -1,0 +1,17 @@
+﻿encoding: utf-8
+markdown: kramdown
+pygments: true
+name: "Bucket"
+description: "A collection of links"
+url: "http://ellengummesson.com/bucket"
+permalink: ":categories/:title"
+author:
+  - "Ellen Gummesson"
+  - "http://ellengummesson.com/"
+  - "https://github.com/gummesson/bucket"
+exclude:
+  - "node_modules"
+  - "package.json"
+  - "README.md"
+  - "Gemfile"
+  - "gulpfile.js"

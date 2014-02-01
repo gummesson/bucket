@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="{{ site.author[0] }}">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//themes.googleusercontent.com">
+  <title>{{ site.name }} ~ {{ page.title }}</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+  <link rel="canonical" href="{{ site.url }}">
+  <link rel="alternate" href="{{ site.url }}/feed.xml" type="application/rss+xml">
+</head>
+<body>
+  <header class="head banner">
+    <div class="landmark">
+      <div class="wrapper">
+        <h1 class="logo cramp">
+          <a class="shh" href="{{ site.url }}/">{{ site.name }}</a>
+        </h1><!-- /logo -->
+        <p class="hook cramp">{{ site.description }}</p>
+      </div><!-- /wrapper -->
+    </div><!-- /landmark -->
+  </header><!-- /head -->
+  <div class="content">
+    <div class="landmark">
+      <div class="wrapper">
+        {{ content }}
+      </div><!-- /wrapper -->
+    </div><!-- /landmark -->
+  </div><!-- /content -->
+  <footer class="foot banner">
+    <div class="island">
+      <div class="wrapper">
+        <p class="hook cramp">
+          Another thing by <a class="shh" href="{{ site.author[1] }}">{{ site.author[0] }}</a>.
+          <a class="shh" href="{{ site.author[2] }}">Source on GitHub</a>.
+        </p>
+      </div><!-- /wrapper -->
+    </div><!-- /island -->
+  </footer><!-- /foot -->
+</body>
+</html>

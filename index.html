@@ -1,0 +1,24 @@
+---
+title: "Home"
+layout: "page"
+---
+
+{% assign first = site.categories.first[0] %}
+{% for category in site.categories %}
+<section class="category">
+  {% if category[0] == first %}
+  <h1 class="cramp">{{ category[0] | capitalize }}</h1>
+  {% else %}
+  <h1>{{ category[0] | capitalize }}</h1>
+  {% endif %}
+  <ul>
+  {% for post in site.posts %}
+    {% if post.categories.first == category[0] %}
+    <li>
+      <a class="shh" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</section><!-- /category -->
+{% endfor %}
