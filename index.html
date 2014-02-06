@@ -3,17 +3,23 @@ title: "Home"
 layout: "page"
 ---
 
-{% assign first = site.categories.first[0] %}
-{% for category in site.categories %}
+{% capture categories %}
+  {% for category in site.categories %}
+    {{ category[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sorted = categories | split:" " | sort %}
+{% assign first = sorted | first %}
+{% for category in sorted %}
 <section class="category">
-  {% if category[0] == first %}
-  <h1 class="cramp">{{ category[0] | capitalize }}</h1>
+  {% if category == first %}
+  <h1 class="cramp-above">{{ category | capitalize }}</h1>
   {% else %}
-  <h1>{{ category[0] | capitalize }}</h1>
+  <h1>{{ category | capitalize }}</h1>
   {% endif %}
   <ul>
   {% for post in site.posts %}
-    {% if post.categories.first == category[0] %}
+    {% if post.categories.first == category %}
     <li>
       <a class="shh" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     </li>
