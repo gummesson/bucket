@@ -17,6 +17,12 @@ gulp.task('css', function() {
     .pipe(gulp.dest('assets/css/'));
 });
 
+gulp.task('img', function() {
+  return gulp
+    .src('_assets/img/favicon.ico')
+    .pipe(gulp.dest('assets/img/'));
+});
+
 gulp.task('serve', function() {
   gulp.src('./')
     .pipe(exec('jekyll serve --watch --config _config.yml,_local.yml'));
@@ -26,4 +32,4 @@ gulp.task('watch', function() {
   gulp.watch('_assets/styl/**/*.styl', ['css']);
 });
 
-gulp.task('default', ['css', 'serve', 'watch']);
+gulp.task('default', ['css', 'img', 'serve', 'watch']);
