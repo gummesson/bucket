@@ -24,8 +24,12 @@ gulp.task('img', function() {
 });
 
 gulp.task('serve', function() {
-  gulp.src('./')
-    .pipe(exec('jekyll serve --watch --config _config.yml,_local.yml'));
+  var jekyll = [
+    'jekyll serve',
+    '--watch',
+    '--config _config.yml,_local.yml'
+  ].join(' ');
+  gulp.src('./').pipe(exec(jekyll));
 });
 
 gulp.task('watch', function() {
