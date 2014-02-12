@@ -5,5 +5,5 @@ categories: "Programming"
 link: "http://zsh.sourceforge.net/Guide/zshguide.html"
 ---
 
-> Zsh is a particularly powerful shell with lots of interactive features allowing you to do the maximum work with the minimum fuss.
+> Zsh is a particularly powerful shell [...] with lots of interactive features allowing you to do the maximum work with the minimum fuss.
 {: .pullquote }
