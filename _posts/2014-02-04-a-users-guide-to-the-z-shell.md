@@ -1,7 +1,7 @@
 ---
 title: "A user's guide to the Z-shell"
 layout: "page"
-categories: "Programming"
+categories: "Unix"
 link: "http://zsh.sourceforge.net/Guide/zshguide.html"
 ---
 

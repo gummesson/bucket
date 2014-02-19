@@ -1,7 +1,7 @@
 ---
 title: "Reed Esau's growing list of Vim plugins for writers"
 layout: "page"
-categories: "Writing"
+categories: "Vim"
 link: "http://wynnnetherland.com/journal/reed-esau-s-growing-list-of-vim-plugins-for-writers"
 ---
 
