@@ -9,10 +9,13 @@ A collection of links.
     npm install
 
 Run server
-    
+
     gulp
 
-Browse to http://localhost:4000
+Browse
+ - [local on http://localhost:4000](http://localhost:4000)
+ - [on Github](http://fmag.github.io/bucket)
+
 
 ## License
 
