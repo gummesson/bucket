@@ -3,7 +3,7 @@ markdown: kramdown
 pygments: true
 name: "Bucket"
 description: "A collection of links"
-url: "http://ellengummesson.com/bucket"
+url: "http://fmag.github.io/bucket/"
 permalink: ":categories/:title"
 author:
   - "Ellen Gummesson"
