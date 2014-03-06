@@ -13,8 +13,8 @@ Run server
     gulp
 
 Browse
- - [local on http://localhost:4000](http://localhost:4000)
- - [on Github](http://fmag.github.io/bucket)
+ - http://localhost:4000
+ - http://fmag.github.io/bucket
 
 
 ## License
