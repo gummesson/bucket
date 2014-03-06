@@ -10,5 +10,11 @@ layout: "default"
   </h1>
   <p class="hook space-above">Added on {{ page.date | date: "%B" }} {% case day %}{% when "1" or "21" or "31" %}{{ day }}st{% when "2" or "22" %}{{ day }}nd{% when "3" or "23" %}{{ day }}rd{% else %}{{ day }}th{% endcase %}, {{ page.date | date: "%Y" }} <a class="shh" href="{{ post.url }}">&infin;</a></p>
   {% endif %}
-  {{ content }}
+  {{ content | split:'<!--aside-start-->' | first }}
 </article><!-- /page -->
+
+{% if page.content contains '--aside-start' %}
+<aside>
+{{ content | split:'<!--aside-start-->' | last | split:'<!--aside-end-->' | first }}
+</aside>
+{% endif %}

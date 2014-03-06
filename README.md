@@ -2,6 +2,18 @@
 
 A collection of links.
 
+## Installation
+
+    bundle install
+    npm install -g gulp
+    npm install
+
+Run server
+    
+    gulp
+
+Browse to http://localhost:4000
+
 ## License
 
 The MIT License (MIT)

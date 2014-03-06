@@ -12,11 +12,7 @@ layout: "page"
 {% assign first = sorted | first %}
 {% for category in sorted %}
 <section class="category">
-  {% if category == first %}
-  <h1 class="cramp-above">{{ category | capitalize }}</h1>
-  {% else %}
-  <h1>{{ category | capitalize }}</h1>
-  {% endif %}
+  <h1 {% if category == first %}class="cramp-above"{% endif %}>{{ category | capitalize }}</h1>  
   <ul>
   {% for post in site.posts %}
     {% if post.categories.first == category %}
@@ -28,3 +24,9 @@ layout: "page"
 </ul>
 </section><!-- /category -->
 {% endfor %}
+
+{% capture categories %}
+  {% for category in site.categories %}
+    {{ category.first | strip }}, <span>{{category.last | size}}<span>#
+  {% endfor %}
+{% endcapture %}
