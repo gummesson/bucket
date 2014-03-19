@@ -1,0 +1,706 @@
+[
+
+  
+    {
+  "title": "Remodeling Antique Plumbing With Modern Tools",
+  "permalink": "/sessions/remodeling-antique-plumbing-with-modern-tools/",
+  "summary": "Spacer gifs and 8.3 filenames are long gone, but still we labor on elderly sites. What are the old pitfalls and modern workarounds?",
+  "room": "Room 13",
+  "presenters": "Dustin Younse",
+  "track": "Development",
+  "start": "4:00pm",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Marketing Automation & Dynamic Content in Drupal",
+  "permalink": "/sessions/marketing-automation-dynamic-content-drupal/",
+  "summary": "Marketing Automation & Dynamic Content in Drupal - What can this new and exploding technology do for your Drupal website? Think deep customer engagement...",
+  "room": "Room 14",
+  "presenters": "Ben Finklea",
+  "track": "Frontend",
+  "start": "4:00pm",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-frontend room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Get More From Your Content with Reader Aware Design",
+  "permalink": "/sessions/get-more-from-content-reader-aware-design/",
+  "summary": "Ben Brown will explore methods for building more value for readers and publishers by using reader aware design techniques, and by re-imagining content archives as a back catalog.",
+  "room": "Room 12",
+  "presenters": "Ben Brown",
+  "track": "Frontend",
+  "start": "4:00pm",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-frontend room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Texas Monthly goes digital with Drupal",
+  "permalink": "/sessions/texas-monthly-panel/",
+  "summary": "Panel discussion about Texas Monthly magazine website relaunch",
+  "room": "Room 12",
+  "presenters": "Ryan Krouskup, Chris Kendall, Ethan Worrel, and Sam Martin",
+  "track": "Business",
+  "start": "3:00pm",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-business room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Policy of Truth: Workbench, moderation, and workflow case study",
+  "permalink": "/sessions/policy-truth-workbench-moderation-workflow-case-study/",
+  "summary": "Come see this case-study for the UT Austin Policy Office website where we turn the workbench module on its head and make it do even more.",
+  "room": "Room 14",
+  "presenters": "David Diers, Taylor Smith",
+  "track": "Business",
+  "start": "3:00pm",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-business room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Automating and Testing Drupal with Zombie.js",
+  "permalink": "/sessions/automating-testing-drupal-zombiejs/",
+  "summary": "Let's say you need to automate something repetitive that you always do within the Drupal UI. Enter Zombie.js... a lightweight, insanely fast, headless browser for testing and automation within a single Node.js package.",
+  "room": "Room 13",
+  "presenters": "Travis Tidwell",
+  "track": "Development",
+  "start": "3:00pm",
+  "difficulty": "Advanced",
+  "day": "Sunday",
+  "classes": "difficulty-advanced track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Keynote with Danese Cooper",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "2:00pm",
+  "difficulty": "",
+  "day": "Sunday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Break for lunch 12:30-2pm",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "12:30pm",
+  "difficulty": "",
+  "day": "Sunday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Practical performance tuning and benchmarking",
+  "permalink": "/sessions/practical-performance-tuning-benchmarking/",
+  "summary": "A down to earth guide on how to diagnose, and treat performance problems in Drupal.",
+  "room": "Room 13",
+  "presenters": "Nick Lewis",
+  "track": "Development",
+  "start": "11:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Import and Map Over 5,000 Points of Interest in 45 Minutes",
+  "permalink": "/sessions/import-map-5000-points-interest-minutes/",
+  "summary": "Learn how to import over 5,000 points of interest with the Feeds module and use the Geofield module to build a proximity search in less than 45 minutes!",
+  "room": "Room 14",
+  "presenters": "Michael Anello",
+  "track": "Sitebuilding",
+  "start": "11:30am",
+  "difficulty": "Beginner",
+  "day": "Sunday",
+  "classes": "difficulty-beginner track-sitebuilding room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Adaptive Images for Responsive Web Design",
+  "permalink": "/sessions/adaptive-images-responsive-web-design/",
+  "summary": "Learn tricks and techniques to build future-friendly images for RWD sites & apps.",
+  "room": "Room 12",
+  "presenters": "Christopher Schmitt",
+  "track": "Frontend",
+  "start": "11:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-frontend room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Why we chose Meteor and what a Drupal/Meteor love child might look like",
+  "permalink": "/sessions/why-chose-meteor-drupal-lovechild/",
+  "summary": "If Drupal and Meteor had a love child, what would it look like?",
+  "room": "Room 13",
+  "presenters": "Casey Cobb, Stephen Pope",
+  "track": "Development",
+  "start": "10:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Semantic Site Building",
+  "permalink": "/sessions/semantic-site-building/",
+  "summary": "Improve the quality of your site building by respecting the semantics of Drupal building blocks and the naming schemes you use.",
+  "room": "Room 12",
+  "presenters": "Jody Hamilton",
+  "track": "Sitebuilding",
+  "start": "10:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-sitebuilding room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Getting Agile with Drupal",
+  "permalink": "/sessions/getting-agile-with-drupal/",
+  "summary": "Come see Getting agile with Drupal to learn about Scrumming the Drupal way.",
+  "room": "Room 14",
+  "presenters": "Johnnie Fox",
+  "track": "Business",
+  "start": "10:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-business room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "TDD and OO in SPS: A case study in fighting Drupal",
+  "permalink": "/sessions/tdd-oo-sps-case-study-fighting-drupal/",
+  "summary": "I will explore the benefits of Test Driven Development that I saw in writing the SPS module and how an Object Oriented approach helped make this process work.",
+  "room": "Room 13",
+  "presenters": "Erik Summerfield",
+  "track": "Development",
+  "start": "9:30am",
+  "difficulty": "Advanced",
+  "day": "Sunday",
+  "classes": "difficulty-advanced track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Commerce Kickstart 2: Tips and Tricks",
+  "permalink": "/sessions/commerce-kickstart-2-tips-tricks/",
+  "summary": "In addition to examining the feature set of the core framework and the distribution, Josh Miller (a Commerce Guy since 2012, who worked on the team that brought us Kickstart 2) will cover challenges and strategies for preparing and launching live sites with Kickstart 2.x, adding additional features, and integrating third party services.",
+  "room": "Room 12",
+  "presenters": "Josh Miller",
+  "track": "Sitebuilding",
+  "start": "9:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-sitebuilding room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "CiviCRM for Developers, Site Builders, and Themers",
+  "permalink": "/sessions/civicrm-developers-sitebuilders-themers/",
+  "summary": "CiviCRM is not Drupal... and that's a GOOD thing. This sessions will cover both Why and How of using CiviCRM with Drupal. Why CiviCRM can be a better alternative than Drupal native CRM or SaaS options. How some simple tips, tricks, and approaches can get you past the fact that CiviCRM is not Drupal and learning to love CiviCRM for the amazing solution it is.",
+  "room": "Room 14",
+  "presenters": "Kevin Reynen",
+  "track": "Business",
+  "start": "9:30am",
+  "difficulty": "Intermediate",
+  "day": "Sunday",
+  "classes": "difficulty-intermediate track-business room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Registration and breakfast",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "9:00am",
+  "difficulty": "",
+  "day": "Sunday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Official after party 7-9pm",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "7:00pm",
+  "difficulty": "",
+  "day": "Saturday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Happy hour 6-7pm",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "6:00pm",
+  "difficulty": "",
+  "day": "Saturday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Related Content Displays",
+  "permalink": "/sessions/related-content-displays/",
+  "summary": "Rock your related content displays by using Drupal's taxonomy. Teach end users how to categorize content using everyday words and thought processes.",
+  "room": "Room 13",
+  "presenters": "Jay Epstein",
+  "track": "Sitebuilding",
+  "start": "5:00pm",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-sitebuilding room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Integrating Node.JS",
+  "permalink": "/sessions/integrating-nodejs/",
+  "summary": "How to Node your Drupal with the Node.js Integration API",
+  "room": "Room 12",
+  "presenters": "Ryan Oles",
+  "track": "Development",
+  "start": "5:00pm",
+  "difficulty": "Advanced",
+  "day": "Saturday",
+  "classes": "difficulty-advanced track-development room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Cross-platform apps",
+  "permalink": "/sessions/cross-platform-apps/",
+  "summary": "We’ll discuss and demonstrate some best practices for creating compelling cross platform apps for IOS and Android using modern web technologies you already use (HTML/CSS/JS) and the Drupal website you already have.",
+  "room": "Room 14",
+  "presenters": "Michael Favia, Dane Macaulay",
+  "track": "Development",
+  "start": "5:00pm",
+  "difficulty": "Advanced",
+  "day": "Saturday",
+  "classes": "difficulty-advanced track-development room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Writing a Digital Marketing Plan",
+  "permalink": "/sessions/writing-digital-marketing-plan/",
+  "summary": "Do you have a Digital Marketing Plan? You should! Come to this session to get started and to receive a free template.",
+  "room": "Room 14",
+  "presenters": "Kylon Gustin",
+  "track": "Business",
+  "start": "4:00pm",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-business room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Spark and Awe: Demos that Deliver the Wow",
+  "permalink": "/sessions/spark-awe-demos-that-deliver-wow/",
+  "summary": "We'll talk about the Demo Framework distribution, how it can be leveraged to engage customers and teach best practices for demoing Drupal to the enterprise.",
+  "room": "Room 12",
+  "presenters": "Brant Wynn, Chris Yates",
+  "track": "Sitebuilding",
+  "start": "4:00pm",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-sitebuilding room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Build your own Drupal API site",
+  "permalink": "/sessions/build-your-own-drupal-api-site/",
+  "summary": "Learn how to quickly build a local API site for reference offline as well as for including your own projects.",
+  "room": "Room 13",
+  "presenters": "Ron Northcutt",
+  "track": "Development",
+  "start": "4:00pm",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Drupal's Destiny",
+  "permalink": "/sessions/drupals-destiny/",
+  "summary": "Where's this Drupal thing headed? Check out this market and technology analysis and catch a glimpse of Drupal's Destiny!",
+  "room": "Room 12",
+  "presenters": "Josh Koenig",
+  "track": "Business",
+  "start": "3:00pm",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-business room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Drupal Commerce 2.x on Drupal 8",
+  "permalink": "/sessions/drupal-commerce2-on-drupal8/",
+  "summary": "Learn how we're retooling Commerce on Drupal 8 and shrinking our codebase thanks to new features in Drupal core.",
+  "room": "Room 13",
+  "presenters": "Ryan Szrama",
+  "track": "Development",
+  "start": "3:00pm",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Bringing Magic Back",
+  "permalink": "/sessions/bringing-magic-back/",
+  "summary": "Bring some magic back to your frontend development with the needed modules and tools to speed your site up!",
+  "room": "Room 14",
+  "presenters": "Ian Carrico",
+  "track": "Frontend",
+  "start": "3:00pm",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-frontend room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Keynote with Shawn O'Keefe",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "1:45pm",
+  "difficulty": "",
+  "day": "Saturday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Break for lunch 12:30-1:45pm",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "12:30pm",
+  "difficulty": "",
+  "day": "Saturday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+    {
+  "title": "Site Building like a Software Engineer",
+  "permalink": "/sessions/site-building-like-software-engineer/",
+  "summary": "In the vast majority of Drupal projects most of the site architecture is defined by clicking around in the admin area. This ends up being both extremely powerful and dangerous. To help avoid some of the dangers I propose we start taking site building as seriously as software engineers take their data and object models.",
+  "room": "Room 13",
+  "presenters": "Mark Ferree",
+  "track": "Sitebuilding",
+  "start": "11:30am",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-sitebuilding room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Omega 3: Use it, don't get used to it",
+  "permalink": "/sessions/omega3-use-dont-get-used/",
+  "summary": "Run with the crowd, run past the crowd.",
+  "room": "Room 14",
+  "presenters": "Chad Evans",
+  "track": "Frontend",
+  "start": "11:30am",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-frontend room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Brewing GitHub",
+  "permalink": "/sessions/brewing-github/",
+  "summary": "How Github ships",
+  "room": "Room 12",
+  "presenters": "Kyle Daigle",
+  "track": "Business",
+  "start": "11:30am",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-business room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Twigify Drupal",
+  "permalink": "/sessions/twigify-drupal/",
+  "summary": "A deep dive into Twig in Drupal 8 that includes a live demo of a Drupal module to automatically convert your existing Drupal themes to Twig",
+  "room": "Room 12",
+  "presenters": "Forest Mars",
+  "track": "Frontend",
+  "start": "10:30am",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-frontend room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Selling Drupal",
+  "permalink": "/sessions/selling-drupal/",
+  "summary": "Companies may not have to buy Drupal, but sometimes we still have to sell it - we'll cover some thoughts on how.",
+  "room": "Room 14",
+  "presenters": "Thad Martin",
+  "track": "Business",
+  "start": "10:30am",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-business room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Drupal Development Best Practices & Building Sites on Pantheon Pt 2",
+  "permalink": "/sessions/drupal-development-best-practices-building-sites-pantheon-2/",
+  "summary": "Learn how to use the Pantheon platform to level up your Drupal development game by using version control, dev/test/live environments, and high performance tools.",
+  "room": "Room 13",
+  "presenters": "Matt Cheney",
+  "track": "Development",
+  "start": "10:30am",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "The Marketers' Case for Drupal",
+  "permalink": "/sessions/marketers-case-drupal/",
+  "summary": "What's driving the world's best marketing teams to go Drupal.",
+  "room": "Room 12",
+  "presenters": "Katelyn Fogarty",
+  "track": "Business",
+  "start": "9:30am",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-business room-room-12"
+}
+,
+  
+
+  
+    {
+  "title": "Life as a Drupal dev: Tips, pitfalls, and workflow",
+  "permalink": "/sessions/life-drupal-dev-tips-pitfalls-workflow/",
+  "summary": "From the efficiency nut who loves a good and seamless workflow to the head-scratching beginner: Concepts to help you succeed in your Drupal projects.",
+  "room": "Room 14",
+  "presenters": "Bronius Motekaitis",
+  "track": "Development",
+  "start": "9:30am",
+  "difficulty": "Intermediate",
+  "day": "Saturday",
+  "classes": "difficulty-intermediate track-development room-room-14"
+}
+,
+  
+
+  
+    {
+  "title": "Drupal Development Best Practices & Building Sites on Pantheon Pt 1",
+  "permalink": "/sessions/drupal-development-best-practices-building-sites-pantheon-1/",
+  "summary": "Learn how to use the Pantheon platform to level up your Drupal development game by using version control, dev/test/live environments, and high performance tools.",
+  "room": "Room 13",
+  "presenters": "Matt Cheney",
+  "track": "Development",
+  "start": "9:30am",
+  "difficulty": "Beginner",
+  "day": "Saturday",
+  "classes": "difficulty-beginner track-development room-room-13"
+}
+,
+  
+
+  
+    {
+  "title": "Registration and breakfast",
+  "permalink": "",
+  "summary": "",
+  "room": "full",
+  "presenters": "",
+  "track": "",
+  "start": "8:30am",
+  "difficulty": "",
+  "day": "Saturday",
+  "classes": "difficulty- track- room-full"
+}
+,
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+false
+]

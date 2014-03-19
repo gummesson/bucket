@@ -2,6 +2,21 @@
 
 A collection of links.
 
+## Installation
+
+    bundle install
+    npm install -g gulp
+    npm install
+
+Run server
+
+    gulp
+
+Browse
+ - http://localhost:4000
+ - http://fmag.github.io/bucket
+
+
 ## License
 
 The MIT License (MIT)
