@@ -1,11 +1,11 @@
 /* Modules */
 
-var gulp     = require('gulp');
-var stylus   = require('gulp-stylus');
-var prefixer = require('gulp-autoprefixer');
-var pixrem   = require('gulp-pixrem');
-var minify   = require('gulp-minify-css');
-var exec     = require('gulp-exec');
+var gulp   = require('gulp');
+var stylus = require('gulp-stylus');
+var prefix = require('gulp-autoprefixer');
+var pixrem = require('gulp-pixrem');
+var minify = require('gulp-minify-css');
+var exec   = require('gulp-exec');
 
 /* Tasks */
 
@@ -13,7 +13,7 @@ gulp.task('css', function() {
   return gulp
     .src('_assets/styl/style.styl')
     .pipe(stylus())
-    .pipe(prefixer('last 2 versions'))
+    .pipe(prefix())
     .pipe(pixrem())
     .pipe(minify())
     .pipe(gulp.dest('assets/css/'));
